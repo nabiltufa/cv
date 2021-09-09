@@ -1,2 +1,2 @@
 # nabiltufa.github.io
-CV
+Website CV untuk tugas pemrograman web
